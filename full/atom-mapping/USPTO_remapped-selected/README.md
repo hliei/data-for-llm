@@ -1,3 +1,0 @@
-Atom-mapping版本
-提取出了RXN Mapping的atom-mapping信息，其中filter了confidence>0.5的mapping
-~700k条mapping
